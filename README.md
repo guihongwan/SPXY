@@ -6,8 +6,10 @@ Implementation of the paper:
 by Guihong Wan and Haim Schweitzer.  
 Published at PAKDD'21, May 2021.
 
+## Run the code
+For example, python demoXY.py -X data/dukeX13.csv -Y data/dukeY13.csv -k 10
 
-### Dataset
+## Dataset
 In the `data` folder we provide the following dataset originally published by
 Shirish Krishnaj Shevade and S. Sathiya Keerthi. 
 A simple and efficient algorithm for gene selection using sparse logistic regression. 
