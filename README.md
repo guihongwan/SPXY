@@ -6,6 +6,13 @@ Implementation of the paper:
 by Guihong Wan and Haim Schweitzer.  
 Published at PAKDD'21, May 2021.
 
+
+### Dataset
+In the `data` folder we provide the following dataset originally published by
+Shirish Krishnaj Shevade and S. Sathiya Keerthi. 
+A simple and efficient algorithm for gene selection using sparse logistic regression. 
+Bioinformatics, 19(17):2246-2253, 2003. 
+
 ## Contact
 Please contact Guihong.Wan@outlook.com in case you have any questions.
 
